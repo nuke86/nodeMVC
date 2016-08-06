@@ -1,4 +1,4 @@
-# README #
+# nodeMVC #
 
 This README would document whatever steps are necessary to get your web site up and running with **nodeMVC**.
 
